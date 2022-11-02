@@ -23,4 +23,4 @@ generateTable.c:
 
 
 ***Note:
-    Before run "SM4.c", please generate the file of "p128" and "p8" with Matlab software and save them in E disk.
+    Before run "SM4.c", please generate the file of "p" and "p8" with Matlab software and save them in E disk.
