@@ -1,8 +1,7 @@
 # white-box-SM4
-white-box SM4
-========================================================================
- White-box - SM4 Project Overview
-========================================================================
+
+White-box - SM4 Project Overview
+
 
 This document outlines the contents of each of the files that make up the white-box-SM4 application.
 
